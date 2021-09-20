@@ -1,3 +1,7 @@
+## Um Contador Simples
+
+Este é um componente React simples que fiz enquanto aprendendo o framework. Espero que gostem ;-)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
